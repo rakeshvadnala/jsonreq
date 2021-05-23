@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "FullName": "RakeshVadnala",
+      "FirstName": "Rakesh",
+	  "LastName": "Vadnala",
+	  "Email": "rakesh@rnstech.com",
+	  "Status": "A"
+    },
+	{
+      "id": 2,
+      "FullName": "James.Smith",
+      "FirstName": "James",
+	  "LastName": "Smith",
+	  "Email": "James@rnstech.com",
+	  "Status": "A"
+    },
+	{
+      "id": 3,
+      "FullName": "Mary.Johnson",
+      "FirstName": "Mary",
+	  "LastName": "Johnson",
+	  "Email": "Mary@rnstech.com",
+	  "Status": "A"
+    },	
+	{
+      "id": 4,
+      "FullName": "John.Williams",
+      "FirstName": "John",
+	  "LastName": "Williams",
+	  "Email": "John@rnstech.com",
+	  "Status": "A"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
